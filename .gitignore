@@ -9,5 +9,4 @@
 /captures
 .externalNativeBuild
 dokka-fatjar.jar
-/doc
 generateDocs.bat
